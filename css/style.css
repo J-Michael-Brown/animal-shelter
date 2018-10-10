@@ -1,0 +1,20 @@
+body {
+  color: red;
+  background-color: yellow;
+}
+
+
+.profile{
+  float: left;
+  width: 230px;
+  padding: 10px;
+  border: 4px solid Red;
+  margin: 5px;
+  margin-top: 10px;
+
+}
+
+.profile img {
+  width: 50%;
+  float: right;
+}
